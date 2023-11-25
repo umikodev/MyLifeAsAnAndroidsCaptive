@@ -183,7 +183,7 @@ label vol1ch1d2_start:
     mc "Um, yeah... Just leave it in the water for a while and the shampoo should come out..."
     show hareka talking
     hareka "Oh."
-    show hareka -talking
+    show hareka -talking at right with move
     "She gets out of the bath now (finally). Her shoes squelch, making me wince a bit."
     "She seems to notice my reaction."
     show hareka talking
