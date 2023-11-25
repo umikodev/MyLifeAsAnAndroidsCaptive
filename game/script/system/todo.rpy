@@ -1,0 +1,1 @@
+# TODO Find a way to make Hareka's exit more smooth (line 73-75, vol1ch1d2.rpy)
