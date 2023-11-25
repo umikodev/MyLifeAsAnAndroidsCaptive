@@ -43,6 +43,7 @@ label vol1ch1d2_start:
     "I look away, waiting for her to finish."
     hareka "Finished."
     show hareka
+    show hareka at left with move
     "She heads to the laptop."
     "I lift my head a bit, trying to see what she inputs as a password."
     "Amb...er...ton...66."
@@ -57,6 +58,37 @@ label vol1ch1d2_start:
     "I grab my clothes that were placed at the end of the bed, and begin getting changed."
     "Meanwhile, she types away in the background."
     mc "Alright, I'm done."
-    show hareka
+    show hareka at left with dissolve
     "I turn back to Hareka, who is still at her laptop, as expected."
     "She doesn't seem like the type to peek anyways, but better to be safe than sorry."
+    mc "Um..."
+    show hareka talking
+    hareka "Yes?"
+    show hareka -talking
+    "She replies, not looking up from her laptop."
+    mc "Uh... I'm a bit hungry..."
+    show hareka talking
+    hareka "Oh. Okay."
+    show hareka -talking
+    "She shuts down her laptop{nw}{done} and leaves the room without another word, locking the door behind her, of course."
+    hide hareka with moveoutleft
+    "She shuts down her laptop{fast} and leaves the room without another word, locking the door behind her, of course."
+    "There's not a moment to waste. I grab her laptop and swiftly begin typing in the details."
+    "It lets me in without a hitch."
+    mc "Pfft, too easy."
+    "I scroll through the files, looking for something in particular."
+    "{b}\"AlexMooreReport.txt\"{/b}"
+    "There it is. Just a simple text file? Hah, that means she hasn't even submitted it anywhere!"
+    "I type fast, editing certain details and cleaning things up."
+    "In the end, it's a solid positive report!"
+    "Finally, I save it and close down the laptop."
+    "Just then,{nw}{done} she returns."
+    show hareka with moveinleft
+    "Just then,{fast} she returns."
+    show hareka talking
+    hareka "Here is your breakfast."
+    show hareka -talking
+    mc "Oh, thank you!"
+    "I sit on the bed and eat."
+    show hareka at left with move
+    "She heads back to the desk and continues working, blissfully unaware of my actions."
