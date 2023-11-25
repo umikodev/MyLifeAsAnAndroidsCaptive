@@ -8,7 +8,7 @@ label vol1ch1d2_start:
     "It's okay, I'm okay..."
     "Yeah..."
     "I look down."
-    show hareka messy_bun_base pjs slippers closed_eyes smile_mouth at center:
+    show hareka messy_bun_base pjs slippers closed_eyes smile_mouth at center with dissolve:
         rotate 90
         yalign -0.5
     "Hareka is sleeping soundly on the floor."
