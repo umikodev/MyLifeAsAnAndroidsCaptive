@@ -37,7 +37,7 @@ label vol1ch1d2_start:
     show hareka talking
     hareka "Oh. Okay."
     hareka "I'm going to get dressed, look away please."
-    show hareka -talking at left with move
+    show hareka -talking
     mc "Okay."
     hide hareka with dissolve
     "I look away, waiting for her to finish."
