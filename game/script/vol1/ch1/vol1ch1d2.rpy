@@ -42,7 +42,7 @@ label vol1ch1d2_start:
     hide hareka with dissolve
     "I look away, waiting for her to finish."
     hareka "Finished."
-    show hareka hair_band ribbon with dissolve
+    show hareka with dissolve
     show hareka at left with move
     "She heads to the laptop."
     "I lift my head a bit, trying to see what she inputs as a password."
