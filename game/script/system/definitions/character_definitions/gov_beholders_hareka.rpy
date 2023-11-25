@@ -118,12 +118,12 @@ layeredimage hareka:
             "images/characters/gov/beholders/hareka/layeredimage/assets/blush_hareka.png"
     
     group inside_hair_decoration:
-        attribute hair_band:
+        attribute hair_band default:
             "images/characters/gov/beholders/hareka/layeredimage/assets/hair_band_hareka.png"
     
     
     group hair_decoration:
-        attribute ribbon:
+        attribute ribbon default:
             "images/characters/gov/beholders/hareka/layeredimage/assets/ribbon_hareka.png"
 
 image side hareka = "images/characters/gov/beholders/hareka/side.png"
