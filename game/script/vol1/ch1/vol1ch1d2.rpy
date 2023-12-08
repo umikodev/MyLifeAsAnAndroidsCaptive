@@ -213,7 +213,7 @@ label vol1ch1d2_start:
     hareka "Would you like me to help again?"
     show hareka -talking
     mc "W-Well- If you... want to..."
-    show hareka -shoes
+    show hareka no_shoe
     "She bends down to take off her shoes, placing them to the side."
     "However, she still has her socks on..."
     mc "Wait!"
@@ -222,7 +222,7 @@ label vol1ch1d2_start:
     show hareka talking
     hareka "Oh. Okay."
     show hareka -talking
-    show hareka -socks
+    show hareka no_sock
     "She takes off her socks also, placing them inside her shoes, before turning back to me."
     show hareka talking
     hareka "Both my shoes and my socks were already wet, though. What is the point of removing them?"

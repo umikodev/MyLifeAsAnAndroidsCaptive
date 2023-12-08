@@ -78,10 +78,12 @@ layeredimage hareka:
     group socks:
         attribute socks default:
             "images/characters/gov/beholders/hareka/layeredimage/base/pants/socks.png"
+        attribute no_sock null
     
     group shoes:
         attribute shoes default:
             "images/characters/gov/beholders/hareka/layeredimage/base/pants/shoes.png"
+        attribute no_shoe null
                 
     group shirts:
         attribute dress default:
