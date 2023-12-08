@@ -229,3 +229,13 @@ label vol1ch1d2_start:
     show hareka -talking
     mc "Well..."
     "I can't find an answer."
+    show hareka closed_eyes talking
+    hareka "No matter."
+    show hareka -talking
+    show hareka at left with move
+    "She climbs into the bath again and passes me the body wash and a loofah."
+    "I pour the body wash onto the loofah and begin to wash my body."
+    show hareka -closed_eyes
+    "She stands there, watching. It makes me feel self conscious."
+    "I mean, she could be judging my body for all I know... Her cold stare doesn't help her case..."
+    "I find myself subconsciously curling up a bit, trying to hide away as much as I can when she's {i}right next to me.{/i}"
