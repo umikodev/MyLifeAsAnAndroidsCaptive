@@ -203,3 +203,29 @@ label vol1ch1d2_start:
     hareka "Well, I'll note that for future."
     show hareka -talking
     mc "O-Okay..."
+    "I sit up again, my hair sticking to my back. I look up at Hareka who is watching me intently. I sense a bit of curiosity in her eyes."
+    show hareka talking
+    hareka "What do you do now?"
+    show hareka -talking
+    mc "Well, uh... I just need to wash my body and I should be done..."
+    "I carefully stand up."
+    show hareka talking
+    hareka "Would you like me to help again?"
+    show hareka -talking
+    mc "W-Well- If you... want to..."
+    show hareka -shoes
+    "She bends down to take off her shoes, placing them to the side."
+    "However, she still has her socks on..."
+    mc "Wait!"
+    hareka "Hm?"
+    mc "You... um, shouldn't have your socks on either..."
+    show hareka talking
+    hareka "Oh. Okay."
+    show hareka -talking
+    show hareka -socks
+    "She takes off her socks also, placing them inside her shoes, before turning back to me."
+    show hareka talking
+    hareka "Both my shoes and my socks were already wet, though. What is the point of removing them?"
+    show hareka -talking
+    mc "Well..."
+    "I can't find an answer."
