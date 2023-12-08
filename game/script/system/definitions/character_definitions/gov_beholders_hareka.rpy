@@ -70,10 +70,20 @@ layeredimage hareka:
             "images/characters/gov/beholders/hareka/layeredimage/base/base_buns.png"
 
     group pants:
-        attribute socks default:
-            "images/characters/gov/beholders/hareka/layeredimage/base/pants/socks_hareka.png"
+        #attribute socks default:
+            #"images/characters/gov/beholders/hareka/layeredimage/base/pants/socks_hareka.png"
         attribute slippers:
             "images/characters/gov/beholders/hareka/layeredimage/base/pants/slippers_hareka.png"
+    
+    group socks:
+        attribute socks default:
+            "images/characters/gov/beholders/hareka/layeredimage/base/pants/socks.png"
+        attribute no_sock null
+    
+    group shoes:
+        attribute shoes default:
+            "images/characters/gov/beholders/hareka/layeredimage/base/pants/shoes.png"
+        attribute no_shoe null
                 
     group shirts:
         attribute dress default:
